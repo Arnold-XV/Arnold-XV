@@ -8,7 +8,7 @@
 ### Projects
 - [BimbelBeta](https://bimbelbeta.com/)
 - [Quranic Personality Test](https://quranic-personality-test.vercel.app/)
-- [Open Recruitment Makomti](https://makomti.my.id/) `2026`
+- [Open Recruitment Makomti](https://makomti.my.id/) `2025`
 - [OmahTi Academy](https://academy.omahti.web.id/) `2025`
 
 ### Currently Learning
